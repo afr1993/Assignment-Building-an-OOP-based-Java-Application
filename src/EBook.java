@@ -1,4 +1,3 @@
-
 public class EBook extends Book {
     private String fileFormat;
     private double fileSize;
